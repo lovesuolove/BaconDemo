@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "HTRootViewController.h"
 
 FOUNDATION_EXPORT double BaconDemoVersionNumber;
 FOUNDATION_EXPORT const unsigned char BaconDemoVersionString[];
