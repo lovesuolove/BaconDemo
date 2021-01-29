@@ -1,0 +1,16 @@
+PODS:
+  - BaconDemo (0.1.0)
+
+DEPENDENCIES:
+  - BaconDemo (from `../`)
+
+EXTERNAL SOURCES:
+  BaconDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaconDemo: 2eec8826e8ad197834ec7a811321cd0c62f8b0ce
+
+PODFILE CHECKSUM: 4c6ccc769fcb531743053c72ff2bae0b85df8fbb
+
+COCOAPODS: 1.10.0
