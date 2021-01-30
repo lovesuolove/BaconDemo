@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'BaconDemo' => ['BaconDemo/Assets/*.png']
   # }
 
-  s.public_header_files = 'BaconDemo/Classes/**/*.h'
+  # s.public_header_files = 'BaconDemo/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'AFNetworking', '~> 2.3'
 end
